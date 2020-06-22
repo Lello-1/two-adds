@@ -5,9 +5,7 @@
 // For example: twoAdds(3)(4) -> 7
 
 function twoAdds (num) {
-  return function (num1) {
-    return num + num1;
-  };
+
 }
 
 module.exports = twoAdds;
